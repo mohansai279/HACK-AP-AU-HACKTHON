@@ -95,13 +95,12 @@ If you encounter any issues or need support, please open an issue on the GitHub 
 
 
 ## Team
-1) Satla Sree Varshith
+ 1) Ampolu Mohan sai( Team lead)
+ 2) Badhrinadh
+ 3) Satla Sree Varshith
+ 4) Bhuvan Lohit Dev Nakka
 
-GitHub: [Github Profile](https://github.com/SreeVarshith)
 
-2) Bhuvan Lohit Dev Nakka
-
-GitHub: [Github Profile](https://github.com/Bhuvan983)
 
 Feel free to explore, contribute, and join us in fostering mental well-being with NovaMind. Minds Illuminated, Lives Transformed.
 
@@ -109,11 +108,7 @@ Feel free to explore, contribute, and join us in fostering mental well-being wit
 
 ## Clone the repository:
 
-```bash
-git clone https://github.com/SreeVarshith/Project-NovaMind.git
-cd Project-NovaMind
 
-Install dependencies:
 
 Copy code
 npm install
